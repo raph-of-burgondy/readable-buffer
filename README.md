@@ -4,7 +4,7 @@
 
 This  very simple but efficient function transforms a [Buffer](https://nodejs.org/dist/latest-v8.x/docs/api/buffer.html) into a [Readable Stream](https://nodejs.org/dist/latest-v8.x/docs/api/stream.html#stream_readable_streams)
 
-##Description
+## Description
 
 ```js
 function streamify(buf,chunksizemax=16*1024) {
