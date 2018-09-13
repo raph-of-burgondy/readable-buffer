@@ -59,4 +59,4 @@ I use it especially with [ioredis](https://www.npmjs.com/package/ioredis) which 
 
 ## License
 
-it's is free and unencumbered public domain software. For more information, see the accompanying UNLICENSE file.
+no licence. use free.
