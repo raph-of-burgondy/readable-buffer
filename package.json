@@ -1,0 +1,16 @@
+{
+  "name": "readable-buffer",
+  "version": "1.0.0",
+  "description": "transform a buffer into a readable stream",
+  "main": "readable-buffer.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "stream",
+    "buffer",
+    "readable"
+  ],
+  "author": "RL",
+  "license": "ISC"
+}
