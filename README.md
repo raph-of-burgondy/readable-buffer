@@ -40,7 +40,7 @@ I use it especially with [ioredis](https://www.npmjs.com/package/ioredis) which 
     const  {streamify} = require('readable-buffer')
     
     
-    redis.setBuffer(buf)
+    redis.set(filename, buf)
     
     redis.getBuffer(req.url)
     .then((data)=>{
